@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Rax300m_OpenWrt_Builder
+name: Rax3000m_OpenWrt_Builder
 
 on:
   repository_dispatch:
